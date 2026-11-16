@@ -1,7 +1,7 @@
 {
  "schema": "anime-lib/2",
  "meta": {
-  "updatedAt": "2026-11-16T15:34:22.353Z",
+  "updatedAt": "2026-11-16T16:06:58.084Z",
   "generator": "anime-lib build",
   "source": "动漫笔记.txt",
   "count": 192,
@@ -30,7 +30,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/0a/3d/16235_5GJQH.jpg",
-   "coverLocal": "assets/covers/0001.jpg",
+   "coverLocal": "assets/covers/0001.webp",
    "meta": {
     "date": "2011-10-09",
     "eps": 26,
@@ -86,7 +86,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/65/65/536_MKMkg.jpg",
-   "coverLocal": "assets/covers/0002.jpg",
+   "coverLocal": "assets/covers/0002.webp",
    "meta": {
     "date": "2004-07-25",
     "eps": 14,
@@ -140,7 +140,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/a7/11/116045_5u9Mg.jpg",
-   "coverLocal": "assets/covers/0003.jpg",
+   "coverLocal": "assets/covers/0003.webp",
    "meta": {
     "date": "2014-12-12",
     "eps": 18,
@@ -197,7 +197,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/f9/61/137937_APuc8.jpg",
-   "coverLocal": "assets/covers/0004.jpg",
+   "coverLocal": "assets/covers/0004.webp",
    "meta": {
     "date": "2015-06-26",
     "eps": 13,
@@ -254,7 +254,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/33/7c/5649_r9s6i.jpg",
-   "coverLocal": "assets/covers/0005.jpg",
+   "coverLocal": "assets/covers/0005.webp",
    "meta": {
     "date": "2010-07-03",
     "eps": 13,
@@ -310,7 +310,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/18/bc/207195_2Cp3o.jpg",
-   "coverLocal": "assets/covers/0006.jpg",
+   "coverLocal": "assets/covers/0006.webp",
    "meta": {
     "date": "2018-01-04",
     "eps": 12,
@@ -367,7 +367,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/e9/15/179949_c2j50.jpg",
-   "coverLocal": "assets/covers/0007.jpg",
+   "coverLocal": "assets/covers/0007.webp",
    "meta": {
     "date": "2017-01-11",
     "eps": 14,
@@ -424,7 +424,7 @@
    "note": "",
    "rewatch": true,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/ba/ed/38069_SPp4e.jpg",
-   "coverLocal": "assets/covers/0008.jpg",
+   "coverLocal": "assets/covers/0008.webp",
    "meta": {
     "date": "2012-10-04",
     "eps": 13,
@@ -479,7 +479,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/c5/88/395378_jztpO.jpg",
-   "coverLocal": "assets/covers/0009.jpg",
+   "coverLocal": "assets/covers/0009.webp",
    "meta": {
     "date": "2024-01-04",
     "eps": 24,
@@ -539,7 +539,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/d3/5d/531159_BayD9.jpg",
-   "coverLocal": "assets/covers/0010.jpg",
+   "coverLocal": "assets/covers/0010.webp",
    "meta": {
     "date": "2025-04-12",
     "eps": 12,
@@ -597,7 +597,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/91/c0/212003_pPk1M.jpg",
-   "coverLocal": "assets/covers/0011.jpg",
+   "coverLocal": "assets/covers/0011.webp",
    "meta": {
     "date": "2018-04-01",
     "eps": 16,
@@ -655,7 +655,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/06/f9/505895_OvNf1.jpg",
-   "coverLocal": "assets/covers/0012.jpg",
+   "coverLocal": "assets/covers/0012.webp",
    "meta": {
     "date": "2024-10-03",
     "eps": 12,
@@ -711,7 +711,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/7a/54/393038_6qnY1.jpg",
-   "coverLocal": "assets/covers/0013.jpg",
+   "coverLocal": "assets/covers/0013.webp",
    "meta": {
     "date": "2024-01-05",
     "eps": 12,
@@ -769,7 +769,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/4a/be/1773_rldoC.jpg",
-   "coverLocal": "assets/covers/0014.jpg",
+   "coverLocal": "assets/covers/0014.webp",
    "meta": {
     "date": "2006-10-04",
     "eps": 37,
@@ -825,7 +825,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/5e/85/330054_86gc8.jpg",
-   "coverLocal": "assets/covers/0015.jpg",
+   "coverLocal": "assets/covers/0015.webp",
    "meta": {
     "date": "2023-01-07",
     "eps": 12,
@@ -883,7 +883,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/f7/d3/295778_s7898.jpg",
-   "coverLocal": "assets/covers/0016.jpg",
+   "coverLocal": "assets/covers/0016.webp",
    "meta": {
     "date": "2020-12-25",
     "eps": 1,
@@ -939,7 +939,7 @@
    "note": "高校舰队",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/83/dd/144843_1nqUr.jpg",
-   "coverLocal": "assets/covers/0017.jpg",
+   "coverLocal": "assets/covers/0017.webp",
    "meta": {
     "date": "2016-04-09",
     "eps": 12,
@@ -995,7 +995,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/de/a5/37137_2F57F.jpg",
-   "coverLocal": "assets/covers/0018.jpg",
+   "coverLocal": "assets/covers/0018.webp",
    "meta": {
     "date": "2012-07-01",
     "eps": 13,
@@ -1052,7 +1052,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/pic/cover/l/46/ea/38040_KFMP9.jpg",
-   "coverLocal": "assets/covers/0019.jpg",
+   "coverLocal": "assets/covers/0019.webp",
    "meta": {
     "date": "2012-10-06",
     "eps": 26,
@@ -1108,7 +1108,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/4c/0c/118696_VJ9NQ.jpg",
-   "coverLocal": "assets/covers/0020.jpg",
+   "coverLocal": "assets/covers/0020.webp",
    "meta": {
     "date": "2014-09-18",
     "eps": 3,
@@ -1164,7 +1164,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/e5/69/265_Z5Uou.jpg",
-   "coverLocal": "assets/covers/0021.jpg",
+   "coverLocal": "assets/covers/0021.webp",
    "meta": {
     "date": "1995-10-04",
     "eps": 26,
@@ -1220,7 +1220,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/fe/8c/849_9xbj1.jpg",
-   "coverLocal": "assets/covers/0022.jpg",
+   "coverLocal": "assets/covers/0022.webp",
    "meta": {
     "date": "2008-04-03",
     "eps": 26,
@@ -1276,7 +1276,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/ac/ba/375735_AR8Al.jpg",
-   "coverLocal": "assets/covers/0023.jpg",
+   "coverLocal": "assets/covers/0023.webp",
    "meta": {
     "date": "2022-10-12",
     "eps": 12,
@@ -1335,7 +1335,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/03/40/87113_3Jsn9.jpg",
-   "coverLocal": "assets/covers/0024.jpg",
+   "coverLocal": "assets/covers/0024.webp",
    "meta": {
     "date": "2014-01-05",
     "eps": 12,
@@ -1392,7 +1392,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/42/ee/186613_I102a.jpg",
-   "coverLocal": "assets/covers/0025.jpg",
+   "coverLocal": "assets/covers/0025.webp",
    "meta": {
     "date": "2016-10-01",
     "eps": 12,
@@ -1449,7 +1449,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/af/fa/229393_86gkc.jpg",
-   "coverLocal": "assets/covers/0026.jpg",
+   "coverLocal": "assets/covers/0026.webp",
    "meta": {
     "date": "2018-04-02",
     "eps": 26,
@@ -1504,7 +1504,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/64/97/228969_D04g0.jpg",
-   "coverLocal": "assets/covers/0027.jpg",
+   "coverLocal": "assets/covers/0027.webp",
    "meta": {
     "date": "2018-07-14",
     "eps": 12,
@@ -1562,7 +1562,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/3e/74/116287_EqO1e.jpg",
-   "coverLocal": "assets/covers/0028.jpg",
+   "coverLocal": "assets/covers/0028.webp",
    "meta": {
     "date": "2015-04-03",
     "eps": 13,
@@ -1620,7 +1620,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/7c/a5/1948_uvj4u.jpg",
-   "coverLocal": "assets/covers/0029.jpg",
+   "coverLocal": "assets/covers/0029.webp",
    "meta": {
     "date": "2003-04-08",
     "eps": 13,
@@ -1675,7 +1675,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/a1/7d/323158_MbmZ4.jpg",
-   "coverLocal": "assets/covers/0030.jpg",
+   "coverLocal": "assets/covers/0030.webp",
    "meta": {
     "date": "2021-10-08",
     "eps": 12,
@@ -1733,7 +1733,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/b3/f7/28230_hnla8.jpg",
-   "coverLocal": "assets/covers/0031.jpg",
+   "coverLocal": "assets/covers/0031.webp",
    "meta": {
     "date": "2012-04-05",
     "eps": 13,
@@ -1789,7 +1789,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/59/50/89485_xKkzo.jpg",
-   "coverLocal": "assets/covers/0032.jpg",
+   "coverLocal": "assets/covers/0032.webp",
    "meta": {
     "date": "2014-04-06",
     "eps": 13,
@@ -1845,7 +1845,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/15/35/414214_Q2LdO.jpg",
-   "coverLocal": "assets/covers/0033.jpg",
+   "coverLocal": "assets/covers/0033.webp",
    "meta": {
     "date": "2023-10-07",
     "eps": 12,
@@ -1903,7 +1903,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/37/df/115908_c0uQj.jpg",
-   "coverLocal": "assets/covers/0034.jpg",
+   "coverLocal": "assets/covers/0034.webp",
    "meta": {
     "date": "2015-04-07",
     "eps": 14,
@@ -1960,7 +1960,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/1b/d3/120224_9Hpcq.jpg",
-   "coverLocal": "assets/covers/0035.jpg",
+   "coverLocal": "assets/covers/0035.webp",
    "meta": {
     "date": "2015-10-06",
     "eps": 12,
@@ -2017,7 +2017,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/80/d1/17883_58mrm.jpg",
-   "coverLocal": "assets/covers/0036.jpg",
+   "coverLocal": "assets/covers/0036.webp",
    "meta": {
     "date": "2011-10-06",
     "eps": 12,
@@ -2073,7 +2073,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/c2/0a/12_q23bZ.jpg",
-   "coverLocal": "assets/covers/0037.jpg",
+   "coverLocal": "assets/covers/0037.webp",
    "meta": {
     "date": "2002-04-02",
     "eps": 27,
@@ -2129,7 +2129,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/64/bd/142758_4WO7N.jpg",
-   "coverLocal": "assets/covers/0038.jpg",
+   "coverLocal": "assets/covers/0038.webp",
    "meta": {
     "date": "2016-04-07",
     "eps": 12,
@@ -2226,7 +2226,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/9e/3c/798_Tsgqf.jpg",
-   "coverLocal": "assets/covers/0040.jpg",
+   "coverLocal": "assets/covers/0040.webp",
    "meta": {
     "date": "2007-04-06",
     "eps": 13,
@@ -2282,7 +2282,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/b7/a1/230940_Mk5DV.jpg",
-   "coverLocal": "assets/covers/0041.jpg",
+   "coverLocal": "assets/covers/0041.webp",
    "meta": {
     "date": "2018-04-06",
     "eps": 25,
@@ -2340,7 +2340,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/c2/4f/3825_EUY1U.jpg",
-   "coverLocal": "assets/covers/0042.jpg",
+   "coverLocal": "assets/covers/0042.webp",
    "meta": {
     "date": "2005-04-07",
     "eps": 24,
@@ -2394,7 +2394,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/db/8e/276_1Cr5K.jpg",
-   "coverLocal": "assets/covers/0043.jpg",
+   "coverLocal": "assets/covers/0043.webp",
    "meta": {
     "date": "2007-04-08",
     "eps": 24,
@@ -2449,7 +2449,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/ad/5c/312223_tXret.jpg",
-   "coverLocal": "assets/covers/0044.jpg",
+   "coverLocal": "assets/covers/0044.webp",
    "meta": {
     "date": "2021-07-01",
     "eps": 12,
@@ -2506,7 +2506,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/1c/de/97927_492q0.jpg",
-   "coverLocal": "assets/covers/0045.jpg",
+   "coverLocal": "assets/covers/0045.webp",
    "meta": {
     "date": "2014-07-07",
     "eps": 13,
@@ -2561,7 +2561,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/56/1a/127724_DSo0K.jpg",
-   "coverLocal": "assets/covers/0047.jpg",
+   "coverLocal": "assets/covers/0047.webp",
    "meta": {
     "date": "2015-10-03",
     "eps": 12,
@@ -2619,7 +2619,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/e1/65/233_x22mT.jpg",
-   "coverLocal": "assets/covers/0048.jpg",
+   "coverLocal": "assets/covers/0048.webp",
    "meta": {
     "date": "2007-12-01",
     "eps": 1,
@@ -2674,7 +2674,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/a3/af/40310_suEF6.jpg",
-   "coverLocal": "assets/covers/0049.jpg",
+   "coverLocal": "assets/covers/0049.webp",
    "meta": {
     "date": "2012-10-08",
     "eps": 12,
@@ -2730,7 +2730,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/bc/72/243981_J20I2.jpg",
-   "coverLocal": "assets/covers/0050.jpg",
+   "coverLocal": "assets/covers/0050.webp",
    "meta": {
     "date": "2018-10-05",
     "eps": 13,
@@ -2787,7 +2787,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/ec/a3/215158_d4KeP.jpg",
-   "coverLocal": "assets/covers/0052.jpg",
+   "coverLocal": "assets/covers/0052.webp",
    "meta": {
     "date": "2018-01-05",
     "eps": 24,
@@ -2845,7 +2845,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/16/29/47889_gZy58.jpg",
-   "coverLocal": "assets/covers/0053.jpg",
+   "coverLocal": "assets/covers/0053.webp",
    "meta": {
     "date": "2013-10-03",
     "eps": 26,
@@ -2901,7 +2901,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/9a/64/37785_aBBEd.jpg",
-   "coverLocal": "assets/covers/0054.jpg",
+   "coverLocal": "assets/covers/0054.webp",
    "meta": {
     "date": "2012-09-28",
     "eps": 25,
@@ -2957,7 +2957,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/bb/0a/37685_JLl2k.jpg",
-   "coverLocal": "assets/covers/0055.jpg",
+   "coverLocal": "assets/covers/0055.webp",
    "meta": {
     "date": "2012-10-11",
     "eps": 22,
@@ -3012,7 +3012,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/e4/00/117556_A0YTI.jpg",
-   "coverLocal": "assets/covers/0057.jpg",
+   "coverLocal": "assets/covers/0057.webp",
    "meta": {
     "date": "2015-07-02",
     "eps": 12,
@@ -3068,7 +3068,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/bf/46/56093_I1uEu.jpg",
-   "coverLocal": "assets/covers/0058.jpg",
+   "coverLocal": "assets/covers/0058.webp",
    "meta": {
     "date": "2013-07-04",
     "eps": 13,
@@ -3162,7 +3162,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/a1/fb/434144_GbnGP.jpg",
-   "coverLocal": "assets/covers/0060.jpg",
+   "coverLocal": "assets/covers/0060.webp",
    "meta": {
     "date": "2024-04-07",
     "eps": 12,
@@ -3219,7 +3219,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/af/99/236947_h60r6.jpg",
-   "coverLocal": "assets/covers/0061.jpg",
+   "coverLocal": "assets/covers/0061.webp",
    "meta": {
     "date": "2018-04-11",
     "eps": 12,
@@ -3276,7 +3276,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/e6/56/227245_8gLf1.jpg",
-   "coverLocal": "assets/covers/0062.jpg",
+   "coverLocal": "assets/covers/0062.webp",
    "meta": {
     "date": "2017-10-06",
     "eps": 12,
@@ -3331,7 +3331,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/56/2d/22759_A5N6H.jpg",
-   "coverLocal": "assets/covers/0063.jpg",
+   "coverLocal": "assets/covers/0063.webp",
    "meta": {
     "date": "2011-04-03",
     "eps": 26,
@@ -3388,7 +3388,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/c0/fe/414461_9BW1L.jpg",
-   "coverLocal": "assets/covers/0064.jpg",
+   "coverLocal": "assets/covers/0064.webp",
    "meta": {
     "date": "2023-07-09",
     "eps": 12,
@@ -3444,7 +3444,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/c4/01/923_c56lq.jpg",
-   "coverLocal": "assets/covers/0065.jpg",
+   "coverLocal": "assets/covers/0065.webp",
    "meta": {
     "date": "2008-10-02",
     "eps": 13,
@@ -3499,7 +3499,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/fc/b4/67376_WkW5k.jpg",
-   "coverLocal": "assets/covers/0066.jpg",
+   "coverLocal": "assets/covers/0066.webp",
    "meta": {
     "date": "2014-10-05",
     "eps": 13,
@@ -3556,7 +3556,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/82/59/227102_rs1uW.jpg",
-   "coverLocal": "assets/covers/0067.jpg",
+   "coverLocal": "assets/covers/0067.webp",
    "meta": {
     "date": "2018-01-12",
     "eps": 24,
@@ -3612,7 +3612,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/5e/72/3806_ufBv2.jpg",
-   "coverLocal": "assets/covers/0068.jpg",
+   "coverLocal": "assets/covers/0068.webp",
    "meta": {
     "date": "2009-12-29",
     "eps": 1,
@@ -3668,7 +3668,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/b1/bc/305390_KH6W1.jpg",
-   "coverLocal": "assets/covers/0069.jpg",
+   "coverLocal": "assets/covers/0069.webp",
    "meta": {
     "date": "2021-07-14",
     "eps": 10,
@@ -3725,7 +3725,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/05/c1/506407_8l3G3.jpg",
-   "coverLocal": "assets/covers/0070.jpg",
+   "coverLocal": "assets/covers/0070.webp",
    "meta": {
     "date": "2025-04-02",
     "eps": 12,
@@ -3781,7 +3781,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/91/41/230110_5tFWD.jpg",
-   "coverLocal": "assets/covers/0071.jpg",
+   "coverLocal": "assets/covers/0071.webp",
    "meta": {
     "date": "2018-07-05",
     "eps": 12,
@@ -3837,7 +3837,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/0d/f1/242633_w786y.jpg",
-   "coverLocal": "assets/covers/0072.jpg",
+   "coverLocal": "assets/covers/0072.webp",
    "meta": {
     "date": "2018-10-10",
     "eps": 12,
@@ -3895,7 +3895,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/b4/d5/78474_aA57w.jpg",
-   "coverLocal": "assets/covers/0073.jpg",
+   "coverLocal": "assets/covers/0073.webp",
    "meta": {
     "date": "2014-04-03",
     "eps": 12,
@@ -3951,7 +3951,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/07/a9/2448_ryDJX.jpg",
-   "coverLocal": "assets/covers/0074.jpg",
+   "coverLocal": "assets/covers/0074.webp",
    "meta": {
     "date": "2008-10-04",
     "eps": 12,
@@ -4007,7 +4007,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/c7/3f/295017_90As6.jpg",
-   "coverLocal": "assets/covers/0075.jpg",
+   "coverLocal": "assets/covers/0075.webp",
    "meta": {
     "date": "2021-01-13",
     "eps": 12,
@@ -4063,7 +4063,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/94/8d/144349_2J27e.jpg",
-   "coverLocal": "assets/covers/0076.jpg",
+   "coverLocal": "assets/covers/0076.webp",
    "meta": {
     "date": "2015-10-30",
     "eps": 1,
@@ -4118,7 +4118,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/ff/14/1851_ZFEg7.jpg",
-   "coverLocal": "assets/covers/0077.jpg",
+   "coverLocal": "assets/covers/0077.webp",
    "meta": {
     "date": "2010-04-02",
     "eps": 13,
@@ -4175,7 +4175,7 @@
    "note": "替身",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/d3/39/20851_V4eXe.jpg",
-   "coverLocal": "assets/covers/0078.jpg",
+   "coverLocal": "assets/covers/0078.webp",
    "meta": {
     "date": "2012-01-09",
     "eps": 12,
@@ -4230,7 +4230,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/f4/91/106818_YJ4JT.jpg",
-   "coverLocal": "assets/covers/0079.jpg",
+   "coverLocal": "assets/covers/0079.webp",
    "meta": {
     "date": "2015-01-09",
     "eps": 22,
@@ -4287,7 +4287,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/a9/63/471839_RD8nA.jpg",
-   "coverLocal": "assets/covers/0080.jpg",
+   "coverLocal": "assets/covers/0080.webp",
    "meta": {
     "date": "2024-10-05",
     "eps": 12,
@@ -4344,7 +4344,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/b2/af/174138_0BOO7.jpg",
-   "coverLocal": "assets/covers/0081.jpg",
+   "coverLocal": "assets/covers/0081.webp",
    "meta": {
     "date": "2017-04-04",
     "eps": 12,
@@ -4403,7 +4403,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/cd/38/27364_1ZFmr.jpg",
-   "coverLocal": "assets/covers/0082.jpg",
+   "coverLocal": "assets/covers/0082.webp",
    "meta": {
     "date": "2012-04-22",
     "eps": 22,
@@ -4459,7 +4459,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/0f/0b/387822_nHUhn.jpg",
-   "coverLocal": "assets/covers/0083.jpg",
+   "coverLocal": "assets/covers/0083.webp",
    "meta": {
     "date": "2023-07-12",
     "eps": 12,
@@ -4517,7 +4517,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/01/35/69496_xMBm7.jpg",
-   "coverLocal": "assets/covers/0084.jpg",
+   "coverLocal": "assets/covers/0084.webp",
    "meta": {
     "date": "2013-10-05",
     "eps": 13,
@@ -4573,7 +4573,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/7c/8e/424883_BpzVb.jpg",
-   "coverLocal": "assets/covers/0085.jpg",
+   "coverLocal": "assets/covers/0085.webp",
    "meta": {
     "date": "2024-07-03",
     "eps": 12,
@@ -4630,7 +4630,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/e4/dc/464376_NsZRw.jpg",
-   "coverLocal": "assets/covers/0086.jpg",
+   "coverLocal": "assets/covers/0086.webp",
    "meta": {
     "date": "2024-07-13",
     "eps": 12,
@@ -4687,7 +4687,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/73/26/110467_Fx9tT.jpg",
-   "coverLocal": "assets/covers/0087.jpg",
+   "coverLocal": "assets/covers/0087.webp",
    "meta": {
     "date": "2014-10-09",
     "eps": 24,
@@ -4744,7 +4744,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/28/38/51_6PN42.jpg",
-   "coverLocal": "assets/covers/0088.jpg",
+   "coverLocal": "assets/covers/0088.webp",
    "meta": {
     "date": "2007-10-04",
     "eps": 23,
@@ -4800,7 +4800,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/dd/cd/356774_zOW55.jpg",
-   "coverLocal": "assets/covers/0089.jpg",
+   "coverLocal": "assets/covers/0089.webp",
    "meta": {
     "date": "2022-07-07",
     "eps": 13,
@@ -4858,7 +4858,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/33/6e/283666_3MD03.jpg",
-   "coverLocal": "assets/covers/0090.jpg",
+   "coverLocal": "assets/covers/0090.webp",
    "meta": {
     "date": "2023-05-26",
     "eps": 1,
@@ -4913,7 +4913,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/2e/c8/23686_e36x9.jpg",
-   "coverLocal": "assets/covers/0091.jpg",
+   "coverLocal": "assets/covers/0091.webp",
    "meta": {
     "date": "2012-07-07",
     "eps": 25,
@@ -4969,7 +4969,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/10/34/277551_nlGL0.jpg",
-   "coverLocal": "assets/covers/0092.jpg",
+   "coverLocal": "assets/covers/0092.webp",
    "meta": {
     "date": "2020-01-09",
     "eps": 12,
@@ -5026,7 +5026,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/77/dd/218711_5Z5t1.jpg",
-   "coverLocal": "assets/covers/0093.jpg",
+   "coverLocal": "assets/covers/0093.webp",
    "meta": {
     "date": "2018-01-13",
     "eps": 24,
@@ -5083,7 +5083,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/ed/fc/10226_m4mvu.jpg",
-   "coverLocal": "assets/covers/0094.jpg",
+   "coverLocal": "assets/covers/0094.webp",
    "meta": {
     "date": "2011-04-14",
     "eps": 12,
@@ -5139,7 +5139,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/97/b6/280678_rQ75K.jpg",
-   "coverLocal": "assets/covers/0095.jpg",
+   "coverLocal": "assets/covers/0095.webp",
    "meta": {
     "date": "2020-04-07",
     "eps": 12,
@@ -5196,7 +5196,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/e2/e7/328609_2EHLJ.jpg",
-   "coverLocal": "assets/covers/0096.jpg",
+   "coverLocal": "assets/covers/0096.webp",
    "meta": {
     "date": "2022-10-08",
     "eps": 12,
@@ -5254,7 +5254,7 @@
    "note": "第一集 无限列车",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/9d/d1/245665_5an54.jpg",
-   "coverLocal": "assets/covers/0097.jpg",
+   "coverLocal": "assets/covers/0097.webp",
    "meta": {
     "date": "2019-04-06",
     "eps": 26,
@@ -5311,7 +5311,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/41/2c/120187_nXjYb.jpg",
-   "coverLocal": "assets/covers/0098.jpg",
+   "coverLocal": "assets/covers/0098.webp",
    "meta": {
     "date": "2015-07-08",
     "eps": 12,
@@ -5368,7 +5368,7 @@
    "note": "第一二季",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/b0/09/274646_yTEYw.jpg",
-   "coverLocal": "assets/covers/0099.jpg",
+   "coverLocal": "assets/covers/0099.webp",
    "meta": {
     "date": "2020-04-06",
     "eps": 13,
@@ -5427,7 +5427,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/69/e5/93545_zYRKK.jpg",
-   "coverLocal": "assets/covers/0100.jpg",
+   "coverLocal": "assets/covers/0100.webp",
    "meta": {
     "date": "2014-10-06",
     "eps": 14,
@@ -5484,7 +5484,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/76/b8/362335_VhtRE.jpg",
-   "coverLocal": "assets/covers/0101.jpg",
+   "coverLocal": "assets/covers/0101.webp",
    "meta": {
     "date": "2023-03-24",
     "eps": 1,
@@ -5542,7 +5542,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/2a/f7/248175_2w4zT.jpg",
-   "coverLocal": "assets/covers/0102.jpg",
+   "coverLocal": "assets/covers/0102.webp",
    "meta": {
     "date": "2019-01-12",
     "eps": 12,
@@ -5600,7 +5600,7 @@
    "note": "除了重置版",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/83/9a/289_h0nz0.jpg",
-   "coverLocal": "assets/covers/0103.jpg",
+   "coverLocal": "assets/covers/0103.webp",
    "meta": {
     "date": "2006-04-04",
     "eps": 26,
@@ -5655,7 +5655,7 @@
    "note": "第一二三季",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/87/01/214272_vlcWz.jpg",
-   "coverLocal": "assets/covers/0104.jpg",
+   "coverLocal": "assets/covers/0104.webp",
    "meta": {
     "date": "2017-07-12",
     "eps": 12,
@@ -5712,7 +5712,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/52/3b/175404_8AK6c.jpg",
-   "coverLocal": "assets/covers/0105.jpg",
+   "coverLocal": "assets/covers/0105.webp",
    "meta": {
     "date": "2018-07-01",
     "eps": 12,
@@ -5769,7 +5769,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/af/22/272510_BZ00p.jpg",
-   "coverLocal": "assets/covers/0106.jpg",
+   "coverLocal": "assets/covers/0106.webp",
    "meta": {
     "date": "2019-07-11",
     "eps": 12,
@@ -5826,7 +5826,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/ad/ee/320851_MPMXr.jpg",
-   "coverLocal": "assets/covers/0107.jpg",
+   "coverLocal": "assets/covers/0107.webp",
    "meta": {
     "date": "2021-07-05",
     "eps": 12,
@@ -5885,7 +5885,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/f8/36/374206_faPhx.jpg",
-   "coverLocal": "assets/covers/0108.jpg",
+   "coverLocal": "assets/covers/0108.webp",
    "meta": {
     "date": "2023-01-05",
     "eps": 12,
@@ -5942,7 +5942,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/f7/c8/61962_Xheqi.jpg",
-   "coverLocal": "assets/covers/0109.jpg",
+   "coverLocal": "assets/covers/0109.webp",
    "meta": {
     "date": "2013-10-07",
     "eps": 12,
@@ -5999,7 +5999,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/ba/ed/38069_SPp4e.jpg",
-   "coverLocal": "assets/covers/0110.jpg",
+   "coverLocal": "assets/covers/0110.webp",
    "meta": {
     "date": "2012-10-04",
     "eps": 13,
@@ -6054,7 +6054,7 @@
    "note": "第一期和第二期",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/20/f3/51944_kKjcC.jpg",
-   "coverLocal": "assets/covers/0111.jpg",
+   "coverLocal": "assets/covers/0111.webp",
    "meta": {
     "date": "2012-10-05",
     "eps": 6,
@@ -6112,7 +6112,7 @@
    "note": "不该开弹幕",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/1d/08/114685_Ege3l.jpg",
-   "coverLocal": "assets/covers/0112.jpg",
+   "coverLocal": "assets/covers/0112.webp",
    "meta": {
     "date": "2015-04-04",
     "eps": 13,
@@ -6170,7 +6170,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/41/1f/209408_IMIAi.jpg",
-   "coverLocal": "assets/covers/0113.jpg",
+   "coverLocal": "assets/covers/0113.webp",
    "meta": {
     "date": "2017-07-01",
     "eps": 12,
@@ -6226,7 +6226,7 @@
    "note": "贼涩",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/6b/01/100403_R8KN2.jpg",
-   "coverLocal": "assets/covers/0114.jpg",
+   "coverLocal": "assets/covers/0114.webp",
    "meta": {
     "date": "2015-01-08",
     "eps": 13,
@@ -6283,7 +6283,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/a4/30/909_e5zhk.jpg",
-   "coverLocal": "assets/covers/0115.jpg",
+   "coverLocal": "assets/covers/0115.webp",
    "meta": {
     "date": "2008-10-01",
     "eps": 25,
@@ -6339,7 +6339,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/d9/03/362577_DZxBM.jpg",
-   "coverLocal": "assets/covers/0116.jpg",
+   "coverLocal": "assets/covers/0116.webp",
    "meta": {
     "date": "2022-11-11",
     "eps": 1,
@@ -6395,7 +6395,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/58/d3/219658_Reey1.jpg",
-   "coverLocal": "assets/covers/0117.jpg",
+   "coverLocal": "assets/covers/0117.webp",
    "meta": {
     "date": "2018-01-08",
     "eps": 12,
@@ -6451,7 +6451,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/eb/9f/276150_tJJGx.jpg",
-   "coverLocal": "assets/covers/0118.jpg",
+   "coverLocal": "assets/covers/0118.webp",
    "meta": {
     "date": "2020-01-03",
     "eps": 12,
@@ -6507,7 +6507,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/07/2e/37154_69Axl.jpg",
-   "coverLocal": "assets/covers/0119.jpg",
+   "coverLocal": "assets/covers/0119.webp",
    "meta": {
     "date": "2012-07-07",
     "eps": 17,
@@ -6563,7 +6563,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/99/17/292970_mxMxx.jpg",
-   "coverLocal": "assets/covers/0120.jpg",
+   "coverLocal": "assets/covers/0120.webp",
    "meta": {
     "date": "2020-10-02",
     "eps": 12,
@@ -6621,7 +6621,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/ad/6b/43197_0bLWN.jpg",
-   "coverLocal": "assets/covers/0121.jpg",
+   "coverLocal": "assets/covers/0121.webp",
    "meta": {
     "date": "2013-01-04",
     "eps": 12,
@@ -6677,7 +6677,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/3f/11/262939_ZhtWQ.jpg",
-   "coverLocal": "assets/covers/0122.jpg",
+   "coverLocal": "assets/covers/0122.webp",
    "meta": {
     "date": "2019-07-12",
     "eps": 12,
@@ -6733,7 +6733,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/a9/79/10380_YwP4R.jpg",
-   "coverLocal": "assets/covers/0123.jpg",
+   "coverLocal": "assets/covers/0123.webp",
    "meta": {
     "date": "2011-04-06",
     "eps": 25,
@@ -6789,7 +6789,7 @@
    "note": "第一季",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/3b/ad/292222_Jgflx.jpg",
-   "coverLocal": "assets/covers/0124.jpg",
+   "coverLocal": "assets/covers/0124.webp",
    "meta": {
     "date": "2020-07-04",
     "eps": 13,
@@ -6847,7 +6847,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/20/15/160209_2UzU8.jpg",
-   "coverLocal": "assets/covers/0125.jpg",
+   "coverLocal": "assets/covers/0125.webp",
    "meta": {
     "date": "2016-08-26",
     "eps": 1,
@@ -6903,7 +6903,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/ce/70/276187_EyOp6.jpg",
-   "coverLocal": "assets/covers/0126.jpg",
+   "coverLocal": "assets/covers/0126.webp",
    "meta": {
     "date": "2019-07-02",
     "eps": 12,
@@ -6959,7 +6959,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/d8/51/231414_8I56c.jpg",
-   "coverLocal": "assets/covers/0127.jpg",
+   "coverLocal": "assets/covers/0127.webp",
    "meta": {
     "date": "2019-07-08",
     "eps": 13,
@@ -7018,7 +7018,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/b9/45/240038_b5j7g.jpg",
-   "coverLocal": "assets/covers/0128.jpg",
+   "coverLocal": "assets/covers/0128.webp",
    "meta": {
     "date": "2018-10-03",
     "eps": 13,
@@ -7075,7 +7075,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/e1/4f/18004_Bu7uU.jpg",
-   "coverLocal": "assets/covers/0129.jpg",
+   "coverLocal": "assets/covers/0129.webp",
    "meta": {
     "date": "2011-09-27",
     "eps": 12,
@@ -7131,7 +7131,7 @@
    "note": "埃罗芒阿老师",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/87/bf/172498_wfm40.jpg",
-   "coverLocal": "assets/covers/0130.jpg",
+   "coverLocal": "assets/covers/0130.webp",
    "meta": {
     "date": "2017-04-08",
     "eps": 12,
@@ -7188,7 +7188,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/48/9d/1424_q8FMQ.jpg",
-   "coverLocal": "assets/covers/0131.jpg",
+   "coverLocal": "assets/covers/0131.webp",
    "meta": {
     "date": "2009-04-02",
     "eps": 14,
@@ -7245,7 +7245,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/a8/63/91420_dC2d2.jpg",
-   "coverLocal": "assets/covers/0132.jpg",
+   "coverLocal": "assets/covers/0132.webp",
    "meta": {
     "date": "2014-07-03",
     "eps": 12,
@@ -7301,7 +7301,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/46/27/202419_Zt1ts.jpg",
-   "coverLocal": "assets/covers/0133.jpg",
+   "coverLocal": "assets/covers/0133.webp",
    "meta": {
     "date": "2017-04-08",
     "eps": 22,
@@ -7357,7 +7357,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/41/39/26449_G0Xzx.jpg",
-   "coverLocal": "assets/covers/0134.jpg",
+   "coverLocal": "assets/covers/0134.webp",
    "meta": {
     "date": "2012-07-01",
     "eps": 12,
@@ -7413,7 +7413,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/dd/84/402660_8q5PB.jpg",
-   "coverLocal": "assets/covers/0135.jpg",
+   "coverLocal": "assets/covers/0135.webp",
    "meta": {
     "date": "2021-10-29",
     "eps": 1,
@@ -7470,7 +7470,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/7c/b9/117777_R8hhl.jpg",
-   "coverLocal": "assets/covers/0136.jpg",
+   "coverLocal": "assets/covers/0136.webp",
    "meta": {
     "date": "2016-09-17",
     "eps": 1,
@@ -7527,7 +7527,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/49/32/328313_oQlyW.jpg",
-   "coverLocal": "assets/covers/0137.jpg",
+   "coverLocal": "assets/covers/0137.webp",
    "meta": {
     "date": "2021-10-06",
     "eps": 12,
@@ -7586,7 +7586,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/ec/c7/100444_yGsJZ.jpg",
-   "coverLocal": "assets/covers/0138.jpg",
+   "coverLocal": "assets/covers/0138.webp",
    "meta": {
     "date": "2014-10-09",
     "eps": 22,
@@ -7645,7 +7645,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/93/b0/331535_i2s69.jpg",
-   "coverLocal": "assets/covers/0139.jpg",
+   "coverLocal": "assets/covers/0139.webp",
    "meta": {
     "date": "2021-10-05",
     "eps": 12,
@@ -7703,7 +7703,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/6a/7b/324295_Klk2K.jpg",
-   "coverLocal": "assets/covers/0140.jpg",
+   "coverLocal": "assets/covers/0140.webp",
    "meta": {
     "date": "2022-04-09",
     "eps": 12,
@@ -7760,7 +7760,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/f4/fe/204145_mbsLs.jpg",
-   "coverLocal": "assets/covers/0141.jpg",
+   "coverLocal": "assets/covers/0141.webp",
    "meta": {
     "date": "2017-10-07",
     "eps": 12,
@@ -7817,7 +7817,7 @@
    "note": "第一季",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/cf/fc/320224_R5rf5.jpg",
-   "coverLocal": "assets/covers/0142.jpg",
+   "coverLocal": "assets/covers/0142.webp",
    "meta": {
     "date": "2021-04-30",
     "eps": 11,
@@ -7875,7 +7875,7 @@
    "note": "第一季",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/21/99/327055_s19V6.jpg",
-   "coverLocal": "assets/covers/0143.jpg",
+   "coverLocal": "assets/covers/0143.webp",
    "meta": {
     "date": "2021-07-04",
     "eps": 12,
@@ -7932,7 +7932,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/39/83/309311_dJU58.jpg",
-   "coverLocal": "assets/covers/0144.jpg",
+   "coverLocal": "assets/covers/0144.webp",
    "meta": {
     "date": "2022-09-13",
     "eps": 10,
@@ -7989,7 +7989,7 @@
    "note": "女孩的钓鱼慢活",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/e8/57/323626_4yEBY.jpg",
-   "coverLocal": "assets/covers/0145.jpg",
+   "coverLocal": "assets/covers/0145.webp",
    "meta": {
     "date": "2022-01-07",
     "eps": 12,
@@ -8046,7 +8046,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/d1/78/218712_c2Db6.jpg",
-   "coverLocal": "assets/covers/0146.jpg",
+   "coverLocal": "assets/covers/0146.webp",
    "meta": {
     "date": "2018-10-06",
     "eps": 12,
@@ -8103,7 +8103,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/a1/11/296367_yPic1.jpg",
-   "coverLocal": "assets/covers/0147.jpg",
+   "coverLocal": "assets/covers/0147.webp",
    "meta": {
     "date": "2021-04-02",
     "eps": 12,
@@ -8161,7 +8161,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/80/d9/362575_v9kT3.jpg",
-   "coverLocal": "assets/covers/0148.jpg",
+   "coverLocal": "assets/covers/0148.webp",
    "meta": {
     "date": "2022-09-09",
     "eps": 1,
@@ -8218,7 +8218,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/ee/96/100040_cs2Gg.jpg",
-   "coverLocal": "assets/covers/0149.jpg",
+   "coverLocal": "assets/covers/0149.webp",
    "meta": {
     "date": "2014-10-05",
     "eps": 13,
@@ -8274,7 +8274,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/00/e8/269235_Dg6gZ.jpg",
-   "coverLocal": "assets/covers/0150.jpg",
+   "coverLocal": "assets/covers/0150.webp",
    "meta": {
     "date": "2019-07-19",
     "eps": 1,
@@ -8331,7 +8331,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/8b/00/277554_z999u.jpg",
-   "coverLocal": "assets/covers/0151.jpg",
+   "coverLocal": "assets/covers/0151.webp",
    "meta": {
     "date": "2021-01-10",
     "eps": 11,
@@ -8391,7 +8391,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/02/7e/302418_0sZ4N.jpg",
-   "coverLocal": "assets/covers/0152.jpg",
+   "coverLocal": "assets/covers/0152.webp",
    "meta": {
     "date": "2020-10-04",
     "eps": 13,
@@ -8449,7 +8449,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/c6/8c/185562_2DkVC.jpg",
-   "coverLocal": "assets/covers/0153.jpg",
+   "coverLocal": "assets/covers/0153.webp",
    "meta": {
     "date": "2017-04-05",
     "eps": 12,
@@ -8507,7 +8507,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/d8/a6/221227_3zJ4G.jpg",
-   "coverLocal": "assets/covers/0154.jpg",
+   "coverLocal": "assets/covers/0154.webp",
    "meta": {
     "date": "2016-06-09",
     "eps": 11,
@@ -8562,7 +8562,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/77/97/229182_1iohu.jpg",
-   "coverLocal": "assets/covers/0155.jpg",
+   "coverLocal": "assets/covers/0155.webp",
    "meta": {
     "date": "2017-11-09",
     "eps": 13,
@@ -8617,7 +8617,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/1e/f1/54433_JZ99l.jpg",
-   "coverLocal": "assets/covers/0156.jpg",
+   "coverLocal": "assets/covers/0156.webp",
    "meta": {
     "date": "2013-04-04",
     "eps": 13,
@@ -8673,7 +8673,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/1d/ea/296870_gtFm2.jpg",
-   "coverLocal": "assets/covers/0157.jpg",
+   "coverLocal": "assets/covers/0157.webp",
    "meta": {
     "date": "2021-07-03",
     "eps": 12,
@@ -8731,7 +8731,7 @@
    "note": "第一二季",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/98/5e/386809_1yR81.jpg",
-   "coverLocal": "assets/covers/0158.jpg",
+   "coverLocal": "assets/covers/0158.webp",
    "meta": {
     "date": "2023-04-12",
     "eps": 11,
@@ -8788,7 +8788,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/56/de/135275_G3liq.jpg",
-   "coverLocal": "assets/covers/0159.jpg",
+   "coverLocal": "assets/covers/0159.webp",
    "meta": {
     "date": "2016-01-13",
     "eps": 10,
@@ -8846,7 +8846,7 @@
    "note": "第一二季、OVA",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/01/ee/394260_VMqvV.jpg",
-   "coverLocal": "assets/covers/0160.jpg",
+   "coverLocal": "assets/covers/0160.webp",
    "meta": {
     "date": "2023-04-01",
     "eps": 12,
@@ -8903,7 +8903,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/c2/38/43557_jUaQk.jpg",
-   "coverLocal": "assets/covers/0161.jpg",
+   "coverLocal": "assets/covers/0161.webp",
    "meta": {
     "date": "2013-01-05",
     "eps": 13,
@@ -8960,7 +8960,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/9b/d6/120925_Zp040.jpg",
-   "coverLocal": "assets/covers/0162.jpg",
+   "coverLocal": "assets/covers/0162.webp",
    "meta": {
     "date": "2015-07-04",
     "eps": 14,
@@ -9017,7 +9017,7 @@
    "note": "只看过2020年前出的，其二创黑暗六同人也是很劲爆",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/4d/61/29870_l5RTL.jpg",
-   "coverLocal": "assets/covers/0163.jpg",
+   "coverLocal": "assets/covers/0163.webp",
    "meta": {
     "date": "2010-10-10",
     "eps": 26,
@@ -9072,7 +9072,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/e9/a7/106693_68MDM.jpg",
-   "coverLocal": "assets/covers/0164.jpg",
+   "coverLocal": "assets/covers/0164.webp",
    "meta": {
     "date": "2015-07-09",
     "eps": 12,
@@ -9128,7 +9128,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/7a/60/328674_5EIi5.jpg",
-   "coverLocal": "assets/covers/0165.jpg",
+   "coverLocal": "assets/covers/0165.webp",
    "meta": {
     "date": "2021-11-12",
     "eps": 1,
@@ -9186,7 +9186,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/ee/3e/218440_NM2Wc.jpg",
-   "coverLocal": "assets/covers/0166.jpg",
+   "coverLocal": "assets/covers/0166.webp",
    "meta": {
     "date": "2018-01-11",
     "eps": 12,
@@ -9243,7 +9243,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/4e/f0/91985_Avmy8.jpg",
-   "coverLocal": "assets/covers/0167.jpg",
+   "coverLocal": "assets/covers/0167.webp",
    "meta": {
     "date": "2014-10-04",
     "eps": 12,
@@ -9300,7 +9300,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/05/2e/299202_w72ww.jpg",
-   "coverLocal": "assets/covers/0168.jpg",
+   "coverLocal": "assets/covers/0168.webp",
    "meta": {
     "date": "2020-06-18",
     "eps": 1,
@@ -9357,7 +9357,7 @@
    "note": "第一二季",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/39/96/329114_mB55b.jpg",
-   "coverLocal": "assets/covers/0169.jpg",
+   "coverLocal": "assets/covers/0169.webp",
    "meta": {
     "date": "2022-10-05",
     "eps": 20,
@@ -9415,7 +9415,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/02/f0/1707_3jxB6.jpg",
-   "coverLocal": "assets/covers/0170.jpg",
+   "coverLocal": "assets/covers/0170.webp",
    "meta": {
     "date": "2004-11-20",
     "eps": 1,
@@ -9471,7 +9471,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/01/a2/41488_qw09G.jpg",
-   "coverLocal": "assets/covers/0171.jpg",
+   "coverLocal": "assets/covers/0171.webp",
    "meta": {
     "date": "2012-10-08",
     "eps": 24,
@@ -9529,7 +9529,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/e5/6b/1373_zdYZ5.jpg",
-   "coverLocal": "assets/covers/0172.jpg",
+   "coverLocal": "assets/covers/0172.webp",
    "meta": {
     "date": "2006-06-28",
     "eps": 13,
@@ -9584,7 +9584,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/54/bd/79227_052R3.jpg",
-   "coverLocal": "assets/covers/0173.jpg",
+   "coverLocal": "assets/covers/0173.webp",
    "meta": {
     "date": "2014-04-09",
     "eps": 12,
@@ -9641,7 +9641,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/a0/20/100449_d101j.jpg",
-   "coverLocal": "assets/covers/0174.jpg",
+   "coverLocal": "assets/covers/0174.webp",
    "meta": {
     "date": "2014-07-06",
     "eps": 12,
@@ -9698,7 +9698,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/cd/25/309668_i1qWh.jpg",
-   "coverLocal": "assets/covers/0175.jpg",
+   "coverLocal": "assets/covers/0175.webp",
    "meta": {
     "date": "2021-07-09",
     "eps": 12,
@@ -9756,7 +9756,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/f4/98/12544_z9MP1.jpg",
-   "coverLocal": "assets/covers/0176.jpg",
+   "coverLocal": "assets/covers/0176.webp",
    "meta": {
     "date": "2011-09-17",
     "eps": 1,
@@ -9814,7 +9814,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/f8/7f/55113_TR5Is.jpg",
-   "coverLocal": "assets/covers/0177.jpg",
+   "coverLocal": "assets/covers/0177.webp",
    "meta": {
     "date": "2013-01-09",
     "eps": 12,
@@ -9871,7 +9871,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/bc/43/58949_rCnOB.jpg",
-   "coverLocal": "assets/covers/0178.jpg",
+   "coverLocal": "assets/covers/0178.webp",
    "meta": {
     "date": "2013-05-31",
     "eps": 1,
@@ -9927,7 +9927,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/1a/75/339326_v466V.jpg",
-   "coverLocal": "assets/covers/0179.jpg",
+   "coverLocal": "assets/covers/0179.webp",
    "meta": {
     "date": "2022-07-06",
     "eps": 13,
@@ -9985,7 +9985,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/dc/8a/285482_c5RRj.jpg",
-   "coverLocal": "assets/covers/0180.jpg",
+   "coverLocal": "assets/covers/0180.webp",
    "meta": {
     "date": "2020-01-11",
     "eps": 12,
@@ -10042,7 +10042,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/pic/cover/l/7d/4c/18635_71IIr.jpg",
-   "coverLocal": "assets/covers/0181.jpg",
+   "coverLocal": "assets/covers/0181.webp",
    "meta": {
     "date": "2011-10-13",
     "eps": 22,
@@ -10098,7 +10098,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/05/bf/185762_xyM3h.jpg",
-   "coverLocal": "assets/covers/0182.jpg",
+   "coverLocal": "assets/covers/0182.webp",
    "meta": {
     "date": "2017-01-05",
     "eps": 12,
@@ -10157,7 +10157,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/e0/8e/325727_U1eEj.jpg",
-   "coverLocal": "assets/covers/0183.jpg",
+   "coverLocal": "assets/covers/0183.webp",
    "meta": {
     "date": "2021-07-04",
     "eps": 12,
@@ -10215,7 +10215,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/b6/fb/150746_AAL5A.jpg",
-   "coverLocal": "assets/covers/0184.jpg",
+   "coverLocal": "assets/covers/0184.webp",
    "meta": {
     "date": "2016-07-07",
     "eps": 12,
@@ -10273,7 +10273,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/1e/e2/183878_Fef1o.jpg",
-   "coverLocal": "assets/covers/0185.jpg",
+   "coverLocal": "assets/covers/0185.webp",
    "meta": {
     "date": "2018-01-10",
     "eps": 13,
@@ -10330,7 +10330,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/3c/bd/112151_qJg8v.jpg",
-   "coverLocal": "assets/covers/0186.jpg",
+   "coverLocal": "assets/covers/0186.webp",
    "meta": {
     "date": "2015-04-04",
     "eps": 12,
@@ -10387,7 +10387,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/66/50/301541_p2z4K.jpg",
-   "coverLocal": "assets/covers/0187.jpg",
+   "coverLocal": "assets/covers/0187.webp",
    "meta": {
     "date": "2020-10-02",
     "eps": 12,
@@ -10444,7 +10444,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/3d/fd/29648_LOcOx.jpg",
-   "coverLocal": "assets/covers/0188.jpg",
+   "coverLocal": "assets/covers/0188.webp",
    "meta": {
     "date": "2012-10-03",
     "eps": 13,
@@ -10501,7 +10501,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/f4/1f/133387_KVJ2a.jpg",
-   "coverLocal": "assets/covers/0189.jpg",
+   "coverLocal": "assets/covers/0189.webp",
    "meta": {
     "date": "2016-01-11",
     "eps": 12,
@@ -10559,7 +10559,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/54/bb/275371_naGaN.jpg",
-   "coverLocal": "assets/covers/0190.jpg",
+   "coverLocal": "assets/covers/0190.webp",
    "meta": {
     "date": "2019-07-08",
     "eps": 12,
@@ -10617,7 +10617,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/5e/e3/94244_aCTut.jpg",
-   "coverLocal": "assets/covers/0191.jpg",
+   "coverLocal": "assets/covers/0191.webp",
    "meta": {
     "date": "2014-07-06",
     "eps": 24,
@@ -10674,7 +10674,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/13/c5/400602_ZI8Y9.jpg",
-   "coverLocal": "assets/covers/0192.jpg",
+   "coverLocal": "assets/covers/0192.webp",
    "meta": {
     "date": "2023-09-29",
     "eps": 28,
@@ -10731,7 +10731,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/d5/d7/72941_q1DiW.jpg",
-   "coverLocal": "assets/covers/0193.jpg",
+   "coverLocal": "assets/covers/0193.webp",
    "meta": {
     "date": "2013-10-03",
     "eps": 24,
@@ -10788,7 +10788,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://bgmimg.anibt.net/r/400/pic/cover/l/a4/b3/302189_1034v.jpg",
-   "coverLocal": "assets/covers/0194.jpg",
+   "coverLocal": "assets/covers/0194.webp",
    "meta": {
     "date": "2021-04-10",
     "eps": 11,
@@ -10855,7 +10855,7 @@
    "note": "",
    "rewatch": false,
    "cover": "https://t.vndb.org/cv/12/76012.jpg",
-   "coverLocal": "assets/covers/G001.jpg",
+   "coverLocal": "assets/covers/G001.webp",
    "meta": {
     "date": "2020-06-18",
     "eps": 0,
